@@ -1,1 +1,1 @@
-# Scaffolding-DotNet5
+scaffolding-dotnet8
